@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Young_sunshine</string>
+    <string name = "action_refresh" translatable = "false">Refresh</string>
+    <string name = "action_setting" translatable = "false">Setting</string>
+</resources>
